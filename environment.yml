@@ -10,4 +10,4 @@ dependencies:
 - pyts>=0.12.0
 - imbalanced-learn>=0.8.0
 - psutil>=5.4.8
-- pytorch>=1.7.0
+- pytorch>=2.0.0
